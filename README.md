@@ -1,5 +1,7 @@
 # Simple Cartridge Tutorial for the Commander X16
 
+![board glamor shot](https://raw.githubusercontent.com/jkominek/x16simplecart/master/images/glamorshot.jpg)
+
 So you'd like to make your own cartridge. You'll need a circuit,
 and a circuit board. (And then stuff to put on it.)
 
